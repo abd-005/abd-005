@@ -1,7 +1,7 @@
-## Hey 👋, I'm Rahul Jha!
+## Hey 👋, I'm Abdul Ahad!
 <a href='[https://www.linkedin.com/in/ab0ahad/](https://www.linkedin.com/in/ab0ahad/)'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://x/ab0ahad/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/x.svg" height='18px'/></a>
-
+<a href='https://x.com/ab0ahad/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/x.svg" height='18px'/></a>
+<br/>
 
 I'm a passionate and dedicated Computer Science student at Uttara University, actively building my skills to become a professional Full Stack Developer.
 
