@@ -1,25 +1,92 @@
-## Hey 👋, I'm Abdul Ahad!
-<a href='[https://www.linkedin.com/in/ab0ahad/](https://www.linkedin.com/in/ab0ahad/)'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://x.com/ab0ahad/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/x.svg" height='18px'/></a>
-<br/>
+<!--  BANNER  -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Abdul%20Ahad&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+</p>
 
-I'm a passionate and dedicated Computer Science student at Uttara University, actively building my skills to become a professional Full Stack Developer.
+<!--  INTRO  -->
+<h2 align="center">👋 Hi, I'm Abdul Ahad</h2>
+<h4 align="center">MERN Stack Full Stack Developer | CSE Student</h4>
 
-Passionate Computer Science student at Uttara University, focused on building modern, scalable, and efficient web applications. Experienced in front-end technologies (HTML5, CSS3, JavaScript ES6+, React, Tailwind CSS) with growing skills in back-end development using Node.js and REST APIs.
+---
 
-Strong foundation in C, C++, Java, and Python, with a deep interest in learning frameworks and tools used across the MERN stack and constantly improving through real-world projects and online collaboration.
+## 🧠 About Me
 
-Open to internships, learning opportunities, and tech collaborations that push my limits and help me grow as a professional developer.
-<br/>
-<br/>
-  
-### 🧐 More About Me:
+I’m a passionate **Computer Science & Engineering student** at **Uttara University** with a strong interest in building modern, scalable web applications.  
+I enjoy working with the **MERN stack**, writing clean code, and learning new technologies.  
+Currently, I’m sharpening my full-stack skills and exploring modern frameworks to level up my development game.
 
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/abd-005)
-- 🌱 &nbsp; I’m currently learning Express $ MongoDB; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abd-005?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ab0ahad/)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels.
+---
 
-<br>
+## 📍 Location & Contact
+
+- 🌍 **Location:** Dhaka, Bangladesh  
+- 📧 **Email:** abd.me7@gmail.com  
+- 📞 **Contact Number:** +880-1828084354  
+
+---
+
+## 🚀 Current Activities
+
+- 🔭 Exploring **Next.js** and modern React patterns  
+- 🏗️ Working on a **Tourism Website** project  
+- 📚 Improving backend performance using **Node.js & Express**  
+- 🧪 Practicing clean UI with **Tailwind CSS**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🧰 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/abd-005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ab0ahad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abd-005&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abd-005&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-005&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+⭐ *Always learning, always building.*
