@@ -1,0 +1,44 @@
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day at midnight UTC
+  workflow_dispatch:       # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - master             # regenerate whenever you push to your profile repo
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: abd-005
+          template: classic
+
+          # Base sections: profile header, recent activity, community stats, repo stats
+          base: "header, activity, community, repositories"
+
+          # Replaces the GitHub Trophies widget
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          # Contribution calendar (like the snake graph, but a static heatmap)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Replaces the "top languages" card
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: "markup, programming"
+          plugin_languages_limit: 8
+
+          # Lines of code changed, and stars received
+          plugin_lines: yes
+          plugin_stars: yes
