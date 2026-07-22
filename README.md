@@ -2,13 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=MD%20ABDUL%20AHAD&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://img.icons8.com/fluency/48/000000/collaborating-in-circle.png" width="30"/>
+<img src="https://api.iconify.design/mdi/hand-wave.svg?color=%2338BDF8&width=40&height=40" width="30"/>
 
-# MD ABDUL AHAD
+# It's MD ABDUL AHAD
 
 ### Full Stack Developer (MERN) &bull; Software Developer Intern &bull; CSE Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Full+Stack+Developer+(MERN);Software+Developer+Intern+%40+Jevxo;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Secure+and+Scalable+Web+Applications;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=610&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=150&lines=Building+Production-Ready+Software;Designing+Modern+Web+Applications;Creating+Secure%2C+Scalable+Backends;Software+Developer+Intern+%40+Jevxo;Always+Learning+Something+New"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
 
@@ -28,46 +28,63 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=abd-005&label=Profile%20Views&color=0e75b6&style=flat"/>
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=abd-005&icon=0&color=0"/>
-</a>
 
 </div>
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/user-male-circle.png" width="26"/> **About Me**
+<img src="https://api.iconify.design/mdi/account-circle.svg?color=%2338BDF8&width=26&height=26" width="26"/> **About Me**
 ---
 
-I'm a **Full Stack MERN Developer** and **Software Developer Intern at Jevxo**, skilled in JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, and REST API development. I build secure, production-ready web applications with authentication, role-based access, payment integration, and responsive UIs — and I'm continuously expanding into PostgreSQL, Prisma ORM, Docker, and scalable backend architecture.
+Full Stack MERN Developer with hands-on experience building production-ready web applications using React, Node.js, Express.js, MongoDB, and modern JavaScript/TypeScript. Currently working as a Software Developer Intern at **Jevxo**, contributing to real-world applications while expanding into PostgreSQL, Prisma ORM, Docker, and scalable backend architecture. Focused on writing clean, maintainable code and shipping secure, responsive, high-performance user experiences.
+
+<table>
+<tr><td><b>Role</b></td><td>Full Stack MERN Developer</td></tr>
+<tr><td><b>Current</b></td><td>Software Developer Intern @ Jevxo</td></tr>
+<tr><td><b>Focus</b></td><td>React, Next.js, Backend Engineering</td></tr>
+<tr><td><b>Learning</b></td><td>PostgreSQL, Prisma ORM, Docker, System Design</td></tr>
+<tr><td><b>Education</b></td><td>BSc in CSE, Uttara University (2021 – 2026)</td></tr>
+</table>
+
+---
+
+<img src="https://api.iconify.design/mdi/check-circle-outline.svg?color=%2338BDF8&width=26&height=26" width="26"/> **What I Bring**
+---
 
 <table>
 <tr>
-<td width="60"><img src="https://img.icons8.com/fluency/40/000000/rocket.png"/></td>
-<td>Software Developer Intern at <b>Jevxo</b></td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/fluency/40/000000/seedling.png"/></td>
-<td>Learning <b>PostgreSQL</b>, <b>Prisma ORM</b>, <b>Docker</b></td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/fluency/40/000000/lightning-bolt.png"/></td>
-<td>Building scalable Full Stack applications</td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/fluency/40/000000/idea.png"/></td>
-<td>Exploring advanced React & Next.js architecture</td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/fluency/40/000000/goal.png"/></td>
-<td>Improving system design & backend performance</td>
+<td width="50%">
+
+- Production-ready React & Next.js applications
+- Secure authentication (JWT, Firebase)
+- RESTful API design with Node.js & Express
+- Role-based, multi-dashboard architecture
+
+</td>
+<td width="50%">
+
+- Stripe payment gateway integration
+- Responsive, animated UI with Tailwind CSS
+- Database design (MongoDB, PostgreSQL, Prisma)
+- Git-based collaboration & code review
+
+</td>
 </tr>
 </table>
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/maintenance.png" width="26"/> **Tech Stack**
+<img src="https://api.iconify.design/mdi/tools.svg?color=%2338BDF8&width=26&height=26" width="26"/> **Tech Stack**
 ---
+
+| Category | Technologies |
+|---|---|
+| Frontend | React &bull; Next.js &bull; TypeScript &bull; JavaScript (ES6+) &bull; Tailwind CSS &bull; HTML5 &bull; CSS3 |
+| Backend | Node.js &bull; Express.js &bull; REST APIs |
+| Database | MongoDB &bull; PostgreSQL &bull; MySQL &bull; Prisma ORM |
+| Auth & Payments | JWT &bull; Firebase Authentication &bull; Stripe &bull; Role-Based Access Control |
+| DevOps & Tools | Git &bull; GitHub &bull; Docker &bull; Postman &bull; npm &bull; VS Code |
+| Fundamentals | Data Structures & Algorithms &bull; OOP &bull; Problem Solving |
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,prisma,firebase,git,github,vscode,postman,docker,npm"/>
@@ -75,7 +92,7 @@ I'm a **Full Stack MERN Developer** and **Software Developer Intern at Jevxo**, 
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/prize.png" width="26"/> **Experience**
+<img src="https://api.iconify.design/mdi/briefcase-outline.svg?color=%2338BDF8&width=26&height=26" width="26"/> **Experience**
 ---
 
 ### Software Developer Intern — Jevxo
@@ -88,31 +105,36 @@ I'm a **Full Stack MERN Developer** and **Software Developer Intern at Jevxo**, 
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/console.png" width="26"/> **Featured Project**
+<img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%2338BDF8&width=26&height=26" width="26"/> **Featured Project**
 ---
+
+<table>
+<tr>
+<td>
 
 ### TailorFlow
-**Full Stack E-commerce & Order Management System** &nbsp; | &nbsp; Live &nbsp;|&nbsp; Client &nbsp;|&nbsp; Server
+**Production-ready Full Stack E-commerce & Order Management System**
+&nbsp;&nbsp;Live &bull; Client &bull; Server
 
-- Built a production-style e-commerce platform with role-based architecture for Admin, Manager, and Buyer users
-- Implemented secure authentication, payment processing via Stripe, and automated order tracking with unique IDs
-- Designed RESTful APIs with Node.js and Express.js, supporting scalable backend operations and clean separation of concerns
-- Developed a responsive frontend using React.js and Tailwind CSS with server-side pagination, dashboard analytics, and animated UI components
+**Highlights**
+- Role-based architecture for Admin, Manager, and Buyer users
+- Secure authentication with JWT and Firebase
+- Stripe payment processing and automated order tracking with unique IDs
+- RESTful APIs with clean separation of concerns
+- Server-side pagination, dashboard analytics, animated responsive UI
 
-**Tech Stack**
-```
-React 18
-Node.js
-Express.js
-MongoDB
-Firebase Auth
-Stripe
-Tailwind CSS
-```
+**Tech**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/graduation-cap.png" width="26"/> **Education**
+<img src="https://api.iconify.design/mdi/school-outline.svg?color=%2338BDF8&width=26&height=26" width="26"/> **Education**
 ---
 
 ### Uttara University
@@ -125,7 +147,7 @@ Tailwind CSS
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/open-book.png" width="26"/> **Currently Learning**
+<img src="https://api.iconify.design/mdi/book-open-page-variant-outline.svg?color=%2338BDF8&width=26&height=26" width="26"/> **Currently Learning**
 ---
 
 <p>
@@ -139,34 +161,40 @@ Tailwind CSS
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/language.png" width="26"/> **Language Proficiency**
+<img src="https://api.iconify.design/mdi/translate.svg?color=%2338BDF8&width=26&height=26" width="26"/> **Language Proficiency**
 ---
 
 English — Professional Working Proficiency
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/worldwide-location.png" width="26"/> **Connect With Me**
+<img src="https://api.iconify.design/mdi/link-variant.svg?color=%2338BDF8&width=26&height=26" width="26"/> **Connect With Me**
 ---
 
-<p align="center">
-<a href="mailto:abd.me7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ab0ahad">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://abd-al-ahad.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/abd-005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<a href="mailto:abd.me7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a><br/>
+<sub>Email</sub>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/ab0ahad"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a><br/>
+<sub>LinkedIn</sub>
+</td>
+<td align="center">
+<a href="https://github.com/abd-005"><img src="https://skillicons.dev/icons?i=github" width="40"/></a><br/>
+<sub>GitHub</sub>
+</td>
+<td align="center">
+<a href="https://abd-al-ahad.netlify.app"><img src="https://api.iconify.design/solar/global-bold.svg?color=%2338BDF8&width=40&height=40"/></a><br/>
+<sub>Portfolio</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/combo-chart.png" width="26"/> **GitHub Metrics**
+<img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2338BDF8&width=26&height=26" width="26"/> **GitHub Metrics**
 ---
 
 <!--
@@ -181,6 +209,18 @@ Once the workflow has run once, this image will render.
 
 <details>
 <summary>Legacy stat widgets (kept as fallback — see note below)</summary>
+
+<!--
+As of late 2025 / mid-2026, the public github-readme-stats.vercel.app instance
+is widely reported as unstable (503 / DEPLOYMENT_PAUSED errors) because it's
+shared by a huge number of profiles and regularly hits its free-tier limits.
+This is documented in the project's own GitHub issues — it is not specific
+to this profile or a config mistake. The permanent fix is deploying your
+own free Vercel copy of the project (fork -> Deploy to Vercel -> add a
+GitHub token as an env var), which gives you a private, unshared quota.
+See: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
+
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abd-005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
@@ -199,21 +239,14 @@ Once the workflow has run once, this image will render.
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/source-code.png" width="26"/> **Top Contributed Repos**
----
-
-<img src="https://github-contributor-stats.vercel.app/api?username=abd-005&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
----
-
-<img src="https://img.icons8.com/fluency/30/000000/quote-left.png" width="26"/> **Random Dev Quote**
+<img src="https://api.iconify.design/mdi/format-quote-close.svg?color=%2338BDF8&width=26&height=26" width="26"/> **Random Dev Quote**
 ---
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/statistics.png" width="26"/> **Contribution Graph**
+<img src="https://api.iconify.design/mdi/chart-line.svg?color=%2338BDF8&width=26&height=26" width="26"/> **Contribution Graph**
 ---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abd-005&theme=tokyo-night&hide_border=true"/>
@@ -228,16 +261,9 @@ Docs: https://github.com/Platane/snk
 
 ---
 
-<img src="https://img.icons8.com/fluency/30/000000/idea.png" width="26"/> **Fun Fact**
----
-
-> "Code is like humor. When you have to explain it, it's bad."
-
----
-
 <div align="center">
 
-### Thanks for visiting my profile
+**Building secure and scalable web applications, one commit at a time.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
