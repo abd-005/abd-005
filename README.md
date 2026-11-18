@@ -102,9 +102,8 @@ BSc in Computer Science & Engineering
 
 </div>
 
-<details>
-<summary>More GitHub statistics</summary>
-<br/>
+### More GitHub Statistics
+
 
 <div align="center">
 
@@ -116,7 +115,6 @@ BSc in Computer Science & Engineering
 <img src="https://github-profile-trophy.vercel.app/?username=abd-005&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 
 </div>
-</details>
 
 ### Contribution Graph
 
